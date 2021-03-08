@@ -1,4 +1,6 @@
-# site-iclindoctor
+# Nuxt.js + Vuetify Landpage Example
+
+![image](/image_git/landpage.jpg?raw=true "Optional Title")
 
 ## Build Setup
 
